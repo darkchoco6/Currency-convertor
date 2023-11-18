@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(money5.jpeg);
+    background-position: center;
+}
+
+h1{
+    margin-left: 5px;
+    font-size: 40px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#currencytype{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+#convert{
+    margin-left: 43%;
+    height: 30px;
+    width: 100px;
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+#refresh{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+}
+
+#camount{
+    text-align: center;
+    font-size: 30px;
+}
+
+#ctype{
+    text-align: center;
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+}
+
+#amount{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#output{
+    border: 1px solid black;
+    height: 30px;
+    width: 300px;
+    margin-left: 39%;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#note{
+    margin-top: 100px;
+    margin-left: 5px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#container
+{
+    margin-top: 100px;
+    border: 3px double whitesmoke;
+    border-radius: 20px;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    /* background-color: whitesmoke; */
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+#output
+{
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+}
